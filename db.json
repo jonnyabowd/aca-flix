@@ -1,5 +1,27 @@
 {
-  "movies":[],
+  "movies": [
+    {
+      "vote_average": 0,
+      "vote_count": 0,
+      "id": 290859,
+      "video": false,
+      "media_type": "movie",
+      "title": "Terminator: Dark Fate",
+      "popularity": 23.898,
+      "poster_path": "/3ybZEptTTW6RRzrxh4zAByAnUCj.jpg",
+      "original_language": "en",
+      "original_title": "Terminator: Dark Fate",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "backdrop_path": "/9AxDdV2uqlxbtXWpwZTFs7mI2hm.jpg",
+      "adult": false,
+      "overview": "The sixth film in the \"Terminator\" series will pick up where the second film left off, ignoring all the subsequent sequels.",
+      "release_date": "2019-10-23",
+      "_id": 1
+    }
+  ],
   "posts": [
     {
       "id": 1,
